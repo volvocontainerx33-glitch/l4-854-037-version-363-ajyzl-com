@@ -1,0 +1,10 @@
+{
+    "site_title": "欧美高清影片-高清电影片库-高清影片在线观看",
+    "logo": "欧美高清影片",
+    "generated_on": "2026-05-24",
+    "movie_count": 2000,
+    "detail_page_count": 2000,
+    "category_count": 12,
+    "cover_rule": "cover_no = ((movie_index - 1) % 150) + 1",
+    "m3u8_sources_extracted_from_uploaded_js": 150
+}
